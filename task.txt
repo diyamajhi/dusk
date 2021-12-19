@@ -4,4 +4,4 @@ merge
 sort 
 search
 traverse
-delete
+
