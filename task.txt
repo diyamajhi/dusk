@@ -5,3 +5,5 @@ sort
 search
 traverse
 
+stack 
+queue
