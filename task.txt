@@ -5,5 +5,13 @@ sort
 search
 traverse
 
+
 stack 
 queue
+
+Thank you
+
+final copy
+
+done my changes
+
